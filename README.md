@@ -6,7 +6,7 @@
 
 <p align="center">I'm a Begginer developer.<br/>I specialize in Web-Development and Telegram Bot Development.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
 
-<p align = "center"><a href="https://p.paytm.me/xCTH/5e1824da"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+<p align = "center"><a href="https://p.paytm.me/xCTH/5e1824da"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Technostone-dev" /></a></p><br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
