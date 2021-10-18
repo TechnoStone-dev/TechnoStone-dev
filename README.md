@@ -38,6 +38,8 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=technostone-dev&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=technostone-dev&">
+ <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgkrishnan&layout=compact&hide=html" alt="akhilgkrishnan" />
 </p>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
