@@ -58,11 +58,35 @@
 </tr>
 </table>
 
+## 📺 Latest YouTube Videos
+
+<table>
+  <tbody>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=zElH4lHeA9w"><img width="140px" src="https://i.ytimg.com/vi/zElH4lHeA9w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zElH4lHeA9w">How to create GitHub account in Hindi </a><br/>Oct 11, 2021</td></tr>
+	  
+<tr><td><a href="https://www.youtube.com/watch?v=e5CkR8r7K4A"><img width="140px" src="https://i.ytimg.com/vi/e5CkR8r7K4A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e5CkR8r7K4A">Python refer And Earn Telegram bot</a><br/>Oct 4, 2021</td></tr>
+	  
+<tr><td><a href="https://www.youtube.com/watch?v=2-2tx_S70NU"><img width="140px" src="https://i.ytimg.com/vi/2-2tx_S70NU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2-2tx_S70NU">How To Deploy Ultroid Userbot</a><br/>Oct 3, 2021</td></tr>
+	  
+	  
+<tr><td><a href="https://www.youtube.com/watch?v=PMH8IBUnAEs"><img width="140px" src="https://i.ytimg.com/vi/PMH8IBUnAEs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PMH8IBUnAEs">How to Create Instram Scrapper Telegram Bot</a><br/>Sep 27, 2021</td></tr>
+	  
+<tr><td><a href="https://www.youtube.com/watch?v=wgkZtI7ay30"><img width="140px" src="https://i.ytimg.com/vi/wgkZtI7ay30/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wgkZtI7ay30">How to Make Own Telegram Live Subscribe Checker Telegram Bot</a><br/>Nov 10, 2020</td></tr>
+<!-- YOUTUBE:END -->
+</tbody>
+  </table>
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">  
 
